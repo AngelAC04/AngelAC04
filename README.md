@@ -8,5 +8,12 @@ Escribir sobre nosotros ...
 
 Hacer el cierre de la presentacion, invitando a contactar
 
+## Technologies
+- Back-End: 
+- Front-End:
+
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+ 
+
