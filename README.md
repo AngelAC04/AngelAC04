@@ -8,6 +8,9 @@ Escribir sobre nosotros ...
 
 Hacer el cierre de la presentacion, invitando a contactar
 
+## Idiomas
+
+Aqui los idiomas seleccionados
 ## Hobbies
 - Dancing: ...
 ## Technologies
