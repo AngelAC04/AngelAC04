@@ -8,6 +8,8 @@ Escribir sobre nosotros ...
 
 Hacer el cierre de la presentacion, invitando a contactar
 
+## Hobbies
+- Dancing: ...
 ## Technologies
 - Back-End: 
 - Front-End:
